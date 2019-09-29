@@ -1,0 +1,15 @@
+{
+  "name": "codemirror-theme-github",
+  "version": "0.0.0",
+  "description": "A CodeMirror theme inspired by the GitHub editor.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "codemirror",
+    "theme",
+    "codemirror github"
+  ],
+  "author": "Cosmin Popovici",
+  "license": "MIT"
+}
