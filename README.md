@@ -2,6 +2,10 @@
 
 A CodeMirror theme inspired by the GitHub editor.
 
+## Preview
+
+![Preview](/theme/preview.jpg?raw=true)
+
 ## Installation
 
 ```
