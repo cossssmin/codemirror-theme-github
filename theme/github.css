@@ -4,6 +4,13 @@
   font-size: 12px;
 }
 
+.cm-s-github.CodeMirror .CodeMirror-lines {
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 12px;
+  background: #fff;
+  line-height: 1.5;
+}
+
 .cm-s-github .CodeMirror-gutters {
   background: #fff;
   border: 0;
