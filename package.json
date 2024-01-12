@@ -1,6 +1,6 @@
 {
   "name": "codemirror-theme-github",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A CodeMirror theme inspired by the GitHub editor.",
   "files": [
     "theme/github.css"
