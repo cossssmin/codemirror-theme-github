@@ -6,7 +6,7 @@
     "theme/github.css"
   ],
   "scripts": {
-    "release": "np"
+    "release": "np --yolo"
   },
   "repository": {
     "type": "git",
