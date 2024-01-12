@@ -5,12 +5,17 @@
   "scripts": {
     "release": "np"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cossssmin/codemirror-theme-github.git"
+  },
+  "bugs": "https://github.com/cossssmin/codemirror-theme-github/issues",
+  "author": "Cosmin Popovici (https://github.com/cossssmin)",
   "keywords": [
     "codemirror",
     "theme",
-    "codemirror github"
+    "codemirror-github"
   ],
-  "author": "Cosmin Popovici",
   "license": "MIT",
   "devDependencies": {
     "np": "*"
