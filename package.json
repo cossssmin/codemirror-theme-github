@@ -21,6 +21,6 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "np": "^10.0.0"
+    "np": "^11.0.1"
   }
 }
